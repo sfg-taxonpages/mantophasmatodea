@@ -2,7 +2,7 @@
 # See project.yml for variables.
 ---
 # {{ app:project_name }}
-The Mantophasmatodea Species File works to build a comprehensive source for knowledge about the world’s heelwalkers. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for ice crawlers of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
+The Mantophasmatodea Species File works to build a comprehensive source for knowledge about the world’s heelwalkers. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for heelwalkers of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
 ## Search
 
