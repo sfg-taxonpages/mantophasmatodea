@@ -10,7 +10,7 @@ The Mantophasmatodea Species File works to build a comprehensive source for know
 
 Explore!
 
-Try searching for species _[Mantophasma zephyra](http://mantophasmatodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1220602)_, or start at Genus _[Mantophasma](http://mantophasmatodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1220590),_  or Family _[Mantophasmatidae](http://mantophasmatodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1220573)._
+Try searching for species _Mantophasma zephyra_, or start your exploration at Genus [Mantophasma]({{app:project_url}}/otu/925586/overview),  or Family [Mantophasmatidae]({{app:project_url}}/otu/925579/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
